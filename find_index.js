@@ -4,4 +4,4 @@ function findIndex(array, index) {
 }
 
 // Export the function to make it accessible to other modules
-// module.exports = findIndex;
+module.exports = findIndex;
